@@ -3,8 +3,7 @@
 int main()
 {  
 clrscr();
-
-   int a, b;
+int a, b;
 printf("Input two integers (a & b) to swap\n");
 scanf("%d%d", &a, &b);
 
